@@ -7,8 +7,7 @@ https://docs.google.com/presentation/d/1uWbJRTjC_WTCX39c9ae_uP3YYZfm_zIRcFFDedaa
 
 Project title:
 Fake News Detection using Natural Language Processing
-Group Number: 30
-Group Member : 1 
 Name : Sami Khan
 ID : 22331083
 Section : 1
+Team : 30 
